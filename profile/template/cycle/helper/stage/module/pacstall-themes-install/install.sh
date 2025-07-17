@@ -83,6 +83,7 @@ local run_cmd=$(cat << __EOF__
 	pacstall -QPINs
 		bean-appearance-citrus-icon-theme
 		bean-appearance-qogir-gtk-theme
+		bean-appearance-qogir-kde-theme
 
 __EOF__
 )
